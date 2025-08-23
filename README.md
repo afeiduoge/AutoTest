@@ -2,6 +2,7 @@
 Mouse and keyboard event recording tool
 <img width="797" height="627" alt="image" src="https://github.com/user-attachments/assets/5cc20e32-97e1-4bf9-83b6-5836f0b48049" />
 软件说明：AutoAction Recorder（自动化操作录制与回放工具）
+
 🎯 软件简介
 AutoTest 是一款简单易用的自动化工具，可帮助您录制鼠标和键盘操作，并随时回放，适用于重复性任务、自动化测试、流程演示等场景。
 
