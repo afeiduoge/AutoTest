@@ -94,7 +94,7 @@
 - ![微信1](https://github.com/user-attachments/assets/08999de4-8a53-493a-8d89-5035bd8fc3dd)
 
 - 赞赏一下💡💡💡
-- ![微信赞赏码1](https://github.com/user-attachments/assets/e30a98ab-50ed-4b07-993a-a219cea66866)
+![微信赞赏码](https://github.com/user-attachments/assets/2b62f006-4969-4aa1-9d2d-c9036a083ec3)
 
 ---
 
